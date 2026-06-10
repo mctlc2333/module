@@ -1,6 +1,6 @@
-{
+
   "version": "v1.0",
   "versionCode": 1,
   "zipUrl": "https://github.com/mctlc2333/module/raw/refs/heads/main/AutoClearStorage.zip",
-  "changelog": "https://github.com/mctlc2333/module/raw/refs/heads/main/updatelog.json"
+  "changelog": "https://raw.githubusercontent.com/mctlc2333/module/refs/heads/main/updatelog.json"
 }
